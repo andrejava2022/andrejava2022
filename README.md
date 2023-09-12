@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas, no momento meu foco principal é a linguagem C#, mas também já estudei Java.<br>Busco estágio na área, uma oportunidade pra aprender e contribuir para o desenvolvimento da empresa.
+Sou estudante de Análise e Desenvolvimento de Sistemas, no momento meu foco principal é a linguagem C#, apesar de ter iniciado os estudos com Java, tenho conhecimento em banco de dados SQL Server, git e GitHub, Linux<br>Busco estágio na área, ou uma oportunidade como júnior, analista, uma oportunidade pra aprender e contribuir para o desenvolvimento da empresa.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, no momento meu foco pri
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)](https://dotnet.microsoft.com/pt-br/) 
 [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Linux](https://img.shields.io/badge/Linux-%23ED8B00.svg?style=plastic&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrejava2022&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
